@@ -9,6 +9,10 @@
 ![Date](https://img.shields.io/badge/Date-April%202026-green)
 
 ---
+## 🙏 Acknowledgment
+
+This work was conducted under the guidance of **Sir Huzaifa Nazir**, whose mentorship, technical expertise, and continuous feedback significantly contributed to the development and direction of this research.
+---
 
 ## 🚨 The Problem
 

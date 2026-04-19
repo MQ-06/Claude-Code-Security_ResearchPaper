@@ -11,7 +11,7 @@
 ---
 ## 🙏 Acknowledgment
 
-This work was conducted under the guidance of **Sir Huzaifa Nazir**, whose mentorship, technical expertise, and continuous feedback significantly contributed to the development and direction of this research.
+> This work was conducted under the guidance of **Sir Huzaifa Nazir**, whose mentorship, technical expertise, and continuous feedback significantly contributed to the development and direction of this research.
 ---
 
 ## 🚨 The Problem
